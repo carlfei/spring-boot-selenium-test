@@ -26,7 +26,7 @@ public class SeleniumTest {
 	}
 
 	@Test
-	public void testGooglePage() throws InterruptedException {
+	public void testLocalHostPage() throws InterruptedException {
 
 		Thread.sleep(2000);
 
